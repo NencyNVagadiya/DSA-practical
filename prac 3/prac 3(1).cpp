@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
- intmain()
+ int main()
 {
     int arr[]={8,5,1,3,7};
     int n=5;
